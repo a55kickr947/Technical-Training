@@ -1,5 +1,5 @@
 
-//square root using static variables
+//quadratic root using static variables
 import java.util.Scanner;
 
 public class T1 {
